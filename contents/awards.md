@@ -2,4 +2,6 @@
 - Shie Medal(士谔奖章), 2024
 - National Scholarship(国家奖学金), 2023
 - Segway-Ninebot Scholarship, Special Award(九号公司奖学金特等奖), 2025
-- National Mathematical Modeling Contest, First Award(全国大学生数学建模大赛全国一等奖), 2023
+- National Mathematical Modeling Contest, National First Prize(全国大学生数学建模大赛全国一等奖), 2023
+- National Mathematica, Physics, Lanqiao Cup, First Prize of Beijing, etc. (全国大学生数学、物理、蓝桥杯竞赛北京市一等奖等), 2023
+- National High School Physics Competition, First Prize (one point behind the provincial team), 2021
